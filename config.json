@@ -1,0 +1,260 @@
+{
+  "designCollection": "all",
+  "heroLayout": "silence",
+  "heroLabelText": "",
+  "heroLabelSize": "auto",
+  "heroTitleFont": "default",
+  "heroTextColor": "#fffaf6",
+  "heroPosition": "end",
+  "heroAlignment": "center",
+  "heroBlockPosition": "center",
+  "heroWidth": "88",
+  "heroSpacing": "16",
+  "heroTitleLeading": "",
+  "heroTitleTracking": "",
+  "heroOrder": "classic",
+  "preset": "xv",
+  "themeVisual": "xv_ballet",
+  "fontPreset": "default",
+  "motionPreset": "cinematic",
+  "motionIntensity": "med",
+  "title": "XV · Valentina",
+  "subtitle": "",
+  "buttonText": "Descubrir invitación",
+  "heroOffset": "0",
+  "buttonStyle": "glass_soft",
+  "overlayColor": "#201712",
+  "overlayOpacity": "0",
+  "colorPalette": "ballet_silver",
+  "primaryColor": "#d8a8b8",
+  "textColor": "#4a4146",
+  "headingColor": "#5a4f56",
+  "mutedColor": "#a49099",
+  "bgBodyColor": "#f3ebee",
+  "bgContentColor": "#fcf9fb",
+  "contentBgOpacity": "0.7",
+  "contentBlur": "none",
+  "buttonOpacity": "0.15",
+  "eventDate": "2027-03-25T21:46",
+  "countdownLabel": "Falta para mi gran noche",
+  "countdownStyle": "super_minimal",
+  "dateCardStyle": "auto",
+  "heartStyle": "minimal",
+  "locationsBgColor": "#fcf9fb",
+  "locationsBgOpacity": "88",
+  "ceremonyText": "Ceremonia religiosa · Parroquia de San Miguel",
+  "ceremonyUrl": "https://maps.app.goo.gl/Dcfo4aDqNRU74n1s8",
+  "ceremonyCoords": "20.083888, -104.097414",
+  "receptionText": "Recepción · Jardín Los Olivos",
+  "receptionUrl": "https://maps.app.goo.gl/4dpfgsW7ehjsfbxw9",
+  "receptionCoords": "20.0856134, -104.100579",
+  "videoLabel": "",
+  "videoText": "",
+  "videoUrl": "",
+  "whatsappNumber": "523322300856",
+  "whatsappMessage": "Hola me gustaría cotizar una invitación asi",
+  "mainMessage": "Hay momentos que se sueñan durante años. Gracias por vivir este conmigo.",
+  "orderLocations": "2",
+  "orderConfirm": "4",
+  "orderCountdown": "1",
+  "orderGallery": "5",
+  "orderBannerExtra": "3",
+  "orderBannerExtra2": "7",
+  "orderMessage": "8",
+  "orderVideo": "9",
+  "galleryStyle": "editorial",
+  "galleryLabel": "",
+  "galleryTitle": "Galería XV años",
+  "galleryFocusY": "50",
+  "galleryOffsets": "[50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50]",
+  "titleSize": "auto",
+  "subtitleSize": "xs",
+  "buttonTextSize": "auto",
+  "countdownLabelSize": "auto",
+  "dateTextSize": "auto",
+  "countdownNumbersSize": "auto",
+  "locationsHeadingSize": "auto",
+  "ceremonyTextSize": "auto",
+  "receptionTextSize": "auto",
+  "rsvpHeadingSize": "auto",
+  "rsvpCopySize": "auto",
+  "rsvpButtonSize": "auto",
+  "bgFit": "cover",
+  "bgFocusX": "51",
+  "bgFocusY": "50",
+  "bgOverlayOpacity": "0.56",
+  "mainMessageSize": "auto",
+  "videoLabelSize": "auto",
+  "videoTextSize": "auto",
+  "galleryLabelSize": "xs",
+  "galleryTitleSize": "xs",
+  "showHeroLabel": true,
+  "showHeroButton": true,
+  "showHeroScroll": true,
+  "showCeremony": true,
+  "showReception": true,
+  "continuityStyle": "editorial",
+  "familyLabel": "Con el cariño de",
+  "familyHeading": "Quienes nos acompañan desde el corazón",
+  "parentsLabel": "Papás",
+  "parentsText": "",
+  "godparentsLabel": "Padrinos",
+  "godparentsText": "",
+  "familyTextSize": "auto",
+  "orderFamily": "2",
+  "closingSignature": "",
+  "closingSignatureFont": "script_greatvibes",
+  "showFamily": true,
+  "showClosingSignature": true,
+  "showTransfer": false,
+  "transferNumber": "",
+  "orderTransfer": "10",
+  "galleryFrames": [
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ],
+  "transferLabel": "",
+  "transferText": "",
+  "bannerMode": "horizontal",
+  "bannerExtraMode": "vertical",
+  "bannerExtra2Mode": "horizontal",
+  "showHeroNav": true,
+  "heroNavStyle": "icon_cards",
+  "mapDisplayMode": "toggle",
+  "heroButtonModel": "original",
+  "heroButtonSize": "medium",
+  "heroButtonShape": "auto",
+  "heroButtonIcon": "auto",
+  "heroButtonColor": "#a88a58",
+  "heroButtonUsePalette": true,
+  "shareTitle": "",
+  "shareDescription": "",
+  "sharePublicUrl": "",
+  "__auraSharePreviewReady5618": true,
+  "schemaVersion": 5.621,
+  "studioVersion": "5.6.21",
+  "weddingCollection": "10-estilos-diferenciados"
+}
